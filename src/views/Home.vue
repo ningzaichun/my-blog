@@ -23,7 +23,7 @@
             >
             |
             <span class="comments-link"
-              ><a href="https://imshu.cc/?p=823#comments">评论(6)</a></span
+              ><a href="https://imshu.cc/?p=823#comgitments">评论(6)</a></span
             >
             |
             <span class="post-views"><i class="views-icon"></i>阅读(807)</span>
